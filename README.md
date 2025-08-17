@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This repository accompanies the dissertation *"Interest Rate Modelling with Fractional Brownian Motion: Pricing and Hedging Implications"*:contentReference[oaicite:0]{index=0}.  
+This repository accompanies the dissertation *"Interest Rate Modelling with Fractional Brownian Motion: Pricing and Hedging Implications"*.  
 The project investigates how **fractional Brownian motion (fBm)** can be incorporated into classical short-rate models (Vasicek, CIR, Hull–White) to capture **long-memory effects** in interest rate dynamics.  
 
 We develop and implement Monte Carlo simulation frameworks for pricing **zero-coupon bonds (ZCBs)**, **forward rate agreements (FRAs)**, and **interest rate options (Caplets/Floorlets)**, as well as analyzing **delta hedging strategies** under long-memory regimes.  
