@@ -1,7 +1,7 @@
 # Dissertation
 
-**Author**: Xintong Li  
-**Degree**: MSc in Financial Mathematics, University of Edinburgh  
+**Author**: Xintong Li (S2661450) 
+**Degree**: MSc in Computational Mathematical Finance, University of Edinburgh  
 **Supervisor**: Dr Oana Lang  
 **Date**: August 2025
 
